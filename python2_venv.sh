@@ -8,6 +8,8 @@
 
 sudo apt-get update
 
+
+#Checking python 
 read -p "Is python already installed ?(Y/N) : " option
 if [ "$option" = "Y"  ] || [ "$option" = "y"  ];
 then
