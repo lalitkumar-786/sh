@@ -16,7 +16,7 @@ then
 	echo "Taking path of already installed python"
 else
 	echo "*****Installing py 2********"
-	sudo apt install python2.7
+	sudo apt-get install python2.7
 fi
 
 PY_PATH2=$( which python )
