@@ -1,5 +1,9 @@
 #!/bin/bash
-
+################################################
+#
+#	Reverse a number using MODULO approach
+#
+###############################################
 read -p "Enter a number : " NUMBER
 rem=0
 n=0
