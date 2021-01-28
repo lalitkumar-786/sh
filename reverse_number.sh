@@ -9,5 +9,5 @@ while(($NUMBER))
 		n=$(($n*10+$rem))
 		NUMBER=$(($NUMBER/10));
 	done
-echo "The reverse number is : "$rem
+echo "The reverse number is : "$n
 
